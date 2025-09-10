@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-09-10T19:11:39.516986544Z"
+    description: A Hello World test example
+    digest: 739fa67ffbcfcc6fbca2360cc90d2aaf7224725acbd667e06da2466a1105893f
+    name: test-app
+    type: application
+    urls:
+    - https://github.com/chriskuipers/helm-charts/releases/download/test-app-0.1.1/test-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-09-10T19:11:39.517004578Z"
